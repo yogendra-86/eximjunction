@@ -1,0 +1,52 @@
+[
+  {"code": "09", "level": 2, "parent_code": null, "description": "Coffee, tea, mate and spices", "short_name": "Coffee, tea & spices"},
+  {"code": "0901", "level": 4, "parent_code": "09", "description": "Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion", "short_name": "Coffee"},
+  {"code": "090111", "level": 6, "parent_code": "0901", "description": "Coffee, not roasted, not decaffeinated", "short_name": "Coffee, not roasted, not decaf"},
+  {"code": "090121", "level": 6, "parent_code": "0901", "description": "Coffee, roasted, not decaffeinated", "short_name": "Coffee, roasted, not decaf"},
+  {"code": "0902", "level": 4, "parent_code": "09", "description": "Tea, whether or not flavoured", "short_name": "Tea"},
+  {"code": "090230", "level": 6, "parent_code": "0902", "description": "Black tea (fermented), in immediate packings of <= 3kg", "short_name": "Black tea, small packs"},
+  {"code": "0904", "level": 4, "parent_code": "09", "description": "Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or Pimenta", "short_name": "Pepper & chillies"},
+  {"code": "090411", "level": 6, "parent_code": "0904", "description": "Pepper of the genus Piper, neither crushed nor ground", "short_name": "Whole pepper"},
+
+  {"code": "10", "level": 2, "parent_code": null, "description": "Cereals", "short_name": "Cereals"},
+  {"code": "1006", "level": 4, "parent_code": "10", "description": "Rice", "short_name": "Rice"},
+  {"code": "100630", "level": 6, "parent_code": "1006", "description": "Semi-milled or wholly milled rice, whether or not polished or glazed", "short_name": "Milled rice"},
+  {"code": "1001", "level": 4, "parent_code": "10", "description": "Wheat and meslin", "short_name": "Wheat"},
+  {"code": "100199", "level": 6, "parent_code": "1001", "description": "Wheat and meslin (excl. seed and durum wheat)", "short_name": "Common wheat"},
+
+  {"code": "27", "level": 2, "parent_code": null, "description": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes", "short_name": "Mineral fuels & oils"},
+  {"code": "2709", "level": 4, "parent_code": "27", "description": "Petroleum oils and oils obtained from bituminous minerals, crude", "short_name": "Crude petroleum"},
+  {"code": "270900", "level": 6, "parent_code": "2709", "description": "Petroleum oils and oils obtained from bituminous minerals, crude", "short_name": "Crude petroleum"},
+  {"code": "2710", "level": 4, "parent_code": "27", "description": "Petroleum oils and oils from bituminous minerals (excl. crude); preparations not elsewhere specified", "short_name": "Refined petroleum"},
+  {"code": "271012", "level": 6, "parent_code": "2710", "description": "Light oils and preparations (e.g. motor gasoline)", "short_name": "Light oils / gasoline"},
+
+  {"code": "30", "level": 2, "parent_code": null, "description": "Pharmaceutical products", "short_name": "Pharmaceuticals"},
+  {"code": "3004", "level": 4, "parent_code": "30", "description": "Medicaments, mixed or unmixed, put up in measured doses or in forms or packings for retail sale", "short_name": "Medicaments, retail"},
+  {"code": "300490", "level": 6, "parent_code": "3004", "description": "Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up for retail sale", "short_name": "Medicaments, other"},
+
+  {"code": "61", "level": 2, "parent_code": null, "description": "Articles of apparel and clothing accessories, knitted or crocheted", "short_name": "Apparel, knitted"},
+  {"code": "6109", "level": 4, "parent_code": "61", "description": "T-shirts, singlets and other vests, knitted or crocheted", "short_name": "T-shirts (knit)"},
+  {"code": "610910", "level": 6, "parent_code": "6109", "description": "T-shirts, singlets and other vests of cotton, knitted or crocheted", "short_name": "Cotton T-shirts (knit)"},
+
+  {"code": "62", "level": 2, "parent_code": null, "description": "Articles of apparel and clothing accessories, not knitted or crocheted", "short_name": "Apparel, not knitted"},
+
+  {"code": "71", "level": 2, "parent_code": null, "description": "Natural or cultured pearls, precious or semi-precious stones, precious metals; jewellery", "short_name": "Pearls, gems & jewellery"},
+  {"code": "7102", "level": 4, "parent_code": "71", "description": "Diamonds, whether or not worked, but not mounted or set", "short_name": "Diamonds"},
+  {"code": "710231", "level": 6, "parent_code": "7102", "description": "Non-industrial diamonds, unworked or simply sawn, cleaved or bruted", "short_name": "Rough diamonds, non-industrial"},
+  {"code": "7113", "level": 4, "parent_code": "71", "description": "Articles of jewellery and parts thereof, of precious metal", "short_name": "Jewellery, precious metal"},
+  {"code": "711319", "level": 6, "parent_code": "7113", "description": "Articles of jewellery and parts thereof, of precious metal other than silver", "short_name": "Gold/platinum jewellery"},
+
+  {"code": "84", "level": 2, "parent_code": null, "description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof", "short_name": "Machinery"},
+  {"code": "8471", "level": 4, "parent_code": "84", "description": "Automatic data-processing machines and units thereof; magnetic or optical readers", "short_name": "Computers"},
+  {"code": "847130", "level": 6, "parent_code": "8471", "description": "Portable automatic data-processing machines, weighing <= 10 kg (laptops/tablets)", "short_name": "Laptops & tablets"},
+
+  {"code": "85", "level": 2, "parent_code": null, "description": "Electrical machinery and equipment and parts thereof; sound recorders, television recorders", "short_name": "Electrical machinery"},
+  {"code": "8517", "level": 4, "parent_code": "85", "description": "Telephone sets, including smartphones; other apparatus for transmission of voice/images/data", "short_name": "Phones & telecom"},
+  {"code": "851712", "level": 6, "parent_code": "8517", "description": "Telephones for cellular networks (mobile phones / smartphones)", "short_name": "Mobile phones"},
+  {"code": "8542", "level": 4, "parent_code": "85", "description": "Electronic integrated circuits", "short_name": "Integrated circuits"},
+  {"code": "854231", "level": 6, "parent_code": "8542", "description": "Electronic integrated circuits as processors and controllers", "short_name": "Processors / controllers"},
+
+  {"code": "87", "level": 2, "parent_code": null, "description": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof", "short_name": "Vehicles"},
+  {"code": "8703", "level": 4, "parent_code": "87", "description": "Motor cars and other motor vehicles principally designed for the transport of persons", "short_name": "Passenger motor vehicles"},
+  {"code": "870323", "level": 6, "parent_code": "8703", "description": "Motor cars with spark-ignition engine, cylinder capacity 1500-3000 cc", "short_name": "Cars, 1500-3000cc petrol"}
+]

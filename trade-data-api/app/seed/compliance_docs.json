@@ -1,0 +1,30 @@
+[
+  {"reporter": null, "partner": null, "hs_code": null, "document_name": "Commercial Invoice", "issuing_authority": "Exporter", "description": "Itemized bill from seller to buyer; required for all international shipments; must show value, terms, parties.", "is_mandatory": true},
+  {"reporter": null, "partner": null, "hs_code": null, "document_name": "Packing List", "issuing_authority": "Exporter", "description": "Detailed list of contents, weights, and dimensions of each package.", "is_mandatory": true},
+  {"reporter": null, "partner": null, "hs_code": null, "document_name": "Bill of Lading / Air Waybill", "issuing_authority": "Carrier", "description": "Transport contract and receipt; B/L for sea freight, AWB for air.", "is_mandatory": true},
+  {"reporter": null, "partner": null, "hs_code": null, "document_name": "Certificate of Origin", "issuing_authority": "Chamber of Commerce or designated authority", "description": "Declares country where goods were produced; required for many trade agreements and tariff preferences.", "is_mandatory": false},
+
+  {"reporter": "IN", "partner": null, "hs_code": null, "document_name": "Importer-Exporter Code (IEC)", "issuing_authority": "DGFT, Ministry of Commerce, India", "description": "10-digit code mandatory for any Indian entity engaged in import/export.", "is_mandatory": true},
+  {"reporter": "IN", "partner": null, "hs_code": null, "document_name": "Shipping Bill", "issuing_authority": "Indian Customs (ICEGATE)", "description": "Filed electronically via ICEGATE for export clearance from India.", "is_mandatory": true},
+  {"reporter": "IN", "partner": null, "hs_code": null, "document_name": "Bill of Entry", "issuing_authority": "Indian Customs (ICEGATE)", "description": "Filed for goods imported into India; assesses duties.", "is_mandatory": true},
+
+  {"reporter": null, "partner": null, "hs_code": "090111", "document_name": "Phytosanitary Certificate", "issuing_authority": "National plant protection organization (e.g., Plant Quarantine, India)", "description": "Confirms plant material is free from pests and diseases; required for most agricultural exports.", "is_mandatory": true},
+  {"reporter": null, "partner": null, "hs_code": "090230", "document_name": "Phytosanitary Certificate", "issuing_authority": "National plant protection organization", "description": "Required for tea and other plant-derived products.", "is_mandatory": true},
+  {"reporter": null, "partner": null, "hs_code": "100630", "document_name": "Phytosanitary Certificate", "issuing_authority": "National plant protection organization", "description": "Required for rice and other cereal exports.", "is_mandatory": true},
+  {"reporter": null, "partner": null, "hs_code": "100199", "document_name": "Phytosanitary Certificate", "issuing_authority": "National plant protection organization", "description": "Required for wheat exports.", "is_mandatory": true},
+
+  {"reporter": null, "partner": null, "hs_code": "300490", "document_name": "Drug Manufacturing Licence / GMP Certificate", "issuing_authority": "Drug regulator of exporting country (CDSCO in India, FDA in US)", "description": "Proof of manufacturing under Good Manufacturing Practices; required by most importing regulators.", "is_mandatory": true},
+  {"reporter": null, "partner": "US", "hs_code": "300490", "document_name": "FDA Prior Notice & Drug Establishment Registration", "issuing_authority": "US FDA", "description": "Foreign drug facilities exporting finished pharmaceuticals to the US must register with FDA.", "is_mandatory": true},
+
+  {"reporter": null, "partner": null, "hs_code": "710231", "document_name": "Kimberley Process Certificate", "issuing_authority": "Kimberley Process Certifying Authority of exporting country", "description": "Mandatory for international shipments of rough diamonds; certifies non-conflict origin.", "is_mandatory": true},
+
+  {"reporter": null, "partner": null, "hs_code": "711319", "document_name": "Hallmark Certificate", "issuing_authority": "Bureau of Indian Standards (for IN); national assay office elsewhere", "description": "Certifies precious metal purity; mandatory for retail gold jewellery in India and several markets.", "is_mandatory": true},
+
+  {"reporter": null, "partner": null, "hs_code": "270900", "document_name": "Quality / Origin Certificate (Crude)", "issuing_authority": "Independent inspection (SGS, Bureau Veritas) at loading port", "description": "Specifies API gravity, sulphur content, and origin; basis for buyer pricing and customs.", "is_mandatory": true},
+
+  {"reporter": null, "partner": "DE", "hs_code": "610910", "document_name": "REACH Compliance Declaration", "issuing_authority": "Exporter / chemical lab", "description": "EU REACH regulation: textiles must not contain restricted substances above thresholds.", "is_mandatory": true},
+  {"reporter": null, "partner": "DE", "hs_code": null, "document_name": "EORI Number (importer side)", "issuing_authority": "EU customs", "description": "Economic Operator Registration and Identification — importer in EU must provide EORI.", "is_mandatory": true},
+
+  {"reporter": null, "partner": "US", "hs_code": null, "document_name": "Importer Security Filing (10+2)", "issuing_authority": "US Customs and Border Protection (CBP)", "description": "ISF must be filed 24 hours before vessel loading at foreign port for ocean shipments to US.", "is_mandatory": true},
+  {"reporter": null, "partner": "US", "hs_code": "610910", "document_name": "Textile Declaration / CBP Form 5106", "issuing_authority": "US CBP", "description": "Declarations for textile imports including fiber content and country of origin.", "is_mandatory": true}
+]

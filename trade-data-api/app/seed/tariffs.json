@@ -1,0 +1,33 @@
+[
+  {"reporter": "US", "partner": null, "hs_code": "090111", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "agreement": null, "notes": "Coffee, not roasted: free under MFN"},
+  {"reporter": "US", "partner": null, "hs_code": "100630", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 1.4, "agreement": null, "notes": "Milled rice"},
+  {"reporter": "US", "partner": null, "hs_code": "610910", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 16.5, "agreement": null, "notes": "Cotton T-shirts"},
+  {"reporter": "US", "partner": null, "hs_code": "847130", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "agreement": null, "notes": "Laptops/tablets — Information Technology Agreement"},
+  {"reporter": "US", "partner": null, "hs_code": "851712", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "agreement": null, "notes": "Mobile phones — ITA"},
+  {"reporter": "US", "partner": null, "hs_code": "300490", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "agreement": null, "notes": "Most medicaments duty-free under WTO Pharma Agreement"},
+  {"reporter": "US", "partner": null, "hs_code": "870323", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 2.5, "agreement": null, "notes": "Passenger cars"},
+  {"reporter": "US", "partner": "MX", "hs_code": "870323", "year": 2024, "rate_type": "preferential", "ad_valorem_rate": 0.0, "agreement": "USMCA", "notes": "Duty-free if regional value content rules met"},
+  {"reporter": "US", "partner": "CA", "hs_code": "870323", "year": 2024, "rate_type": "preferential", "ad_valorem_rate": 0.0, "agreement": "USMCA", "notes": "Duty-free if regional value content rules met"},
+
+  {"reporter": "IN", "partner": null, "hs_code": "270900", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 1.0, "agreement": null, "notes": "Crude petroleum: BCD 1%"},
+  {"reporter": "IN", "partner": null, "hs_code": "847130", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "agreement": null, "notes": "Laptops — ITA-bound"},
+  {"reporter": "IN", "partner": null, "hs_code": "851712", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 20.0, "agreement": null, "notes": "Mobile phones: BCD 20% to support domestic manufacturing"},
+  {"reporter": "IN", "partner": null, "hs_code": "710231", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "agreement": null, "notes": "Rough diamonds, non-industrial"},
+  {"reporter": "IN", "partner": null, "hs_code": "711319", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 20.0, "agreement": null, "notes": "Gold jewellery (revised periodically)"},
+  {"reporter": "IN", "partner": "TH", "hs_code": "851712", "year": 2024, "rate_type": "preferential", "ad_valorem_rate": 0.0, "agreement": "ASEAN-India FTA", "notes": "Subject to rules of origin"},
+  {"reporter": "IN", "partner": "VN", "hs_code": "851712", "year": 2024, "rate_type": "preferential", "ad_valorem_rate": 0.0, "agreement": "ASEAN-India FTA", "notes": "Subject to rules of origin"},
+  {"reporter": "IN", "partner": "JP", "hs_code": "870323", "year": 2024, "rate_type": "preferential", "ad_valorem_rate": 60.0, "agreement": "India-Japan CEPA", "notes": "Phased reduction; rate above MFN-bound for sensitive auto category"},
+
+  {"reporter": "DE", "partner": null, "hs_code": "090111", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "agreement": null, "notes": "EU CCT: coffee not roasted is free"},
+  {"reporter": "DE", "partner": null, "hs_code": "100630", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "specific_rate": "EUR 175/tonne", "agreement": null, "notes": "EU specific duty on milled rice"},
+  {"reporter": "DE", "partner": null, "hs_code": "610910", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 12.0, "agreement": null, "notes": "EU CCT: cotton T-shirts"},
+  {"reporter": "DE", "partner": "BD", "hs_code": "610910", "year": 2024, "rate_type": "preferential", "ad_valorem_rate": 0.0, "agreement": "EU EBA (Everything But Arms)", "notes": "LDC duty-free"},
+  {"reporter": "DE", "partner": "IN", "hs_code": "610910", "year": 2024, "rate_type": "preferential", "ad_valorem_rate": 9.6, "agreement": "EU GSP", "notes": "GSP tariff preference"},
+
+  {"reporter": "CN", "partner": null, "hs_code": "270900", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "agreement": null, "notes": "Crude oil: zero MFN"},
+  {"reporter": "CN", "partner": null, "hs_code": "854231", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "agreement": null, "notes": "Processors / controllers — ITA"},
+  {"reporter": "CN", "partner": null, "hs_code": "870323", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 15.0, "agreement": null, "notes": "Passenger cars 1500-3000cc"},
+
+  {"reporter": "JP", "partner": null, "hs_code": "100630", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "specific_rate": "JPY 341/kg", "agreement": null, "notes": "Japan applies high specific rate on rice imports"},
+  {"reporter": "JP", "partner": null, "hs_code": "300490", "year": 2024, "rate_type": "MFN", "ad_valorem_rate": 0.0, "agreement": null, "notes": "Pharma duty-free"}
+]

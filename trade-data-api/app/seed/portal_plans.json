@@ -1,0 +1,82 @@
+[
+  {
+    "code": "portal_free",
+    "name": "Free",
+    "price_inr": 0,
+    "billing_period": "monthly",
+    "records_per_search": 10,
+    "can_export_csv": false,
+    "can_export_excel": false,
+    "can_use_api": false,
+    "features": [
+      "10 records per search",
+      "Search by HS code, country, year",
+      "View trade flow trends",
+      "Tariff rate lookup",
+      "Compliance document checklist"
+    ],
+    "is_active": true,
+    "sort_order": 1
+  },
+  {
+    "code": "portal_starter",
+    "name": "Starter",
+    "price_inr": 99900,
+    "billing_period": "monthly",
+    "records_per_search": 500,
+    "can_export_csv": true,
+    "can_export_excel": false,
+    "can_use_api": false,
+    "features": [
+      "500 records per search",
+      "CSV export downloads",
+      "All search filters",
+      "Trade flow charts",
+      "Tariff comparison tool",
+      "Email support (48h)"
+    ],
+    "is_active": true,
+    "sort_order": 2
+  },
+  {
+    "code": "portal_pro",
+    "name": "Professional",
+    "price_inr": 399900,
+    "billing_period": "monthly",
+    "records_per_search": null,
+    "can_export_csv": true,
+    "can_export_excel": true,
+    "can_use_api": true,
+    "features": [
+      "Unlimited records per search",
+      "CSV + Excel export",
+      "API token access included",
+      "Compliance kit PDF download",
+      "Tariff calculator tool",
+      "Priority support (24h)"
+    ],
+    "is_active": true,
+    "sort_order": 3
+  },
+  {
+    "code": "portal_enterprise",
+    "name": "Enterprise",
+    "price_inr": 1499900,
+    "billing_period": "monthly",
+    "records_per_search": null,
+    "can_export_csv": true,
+    "can_export_excel": true,
+    "can_use_api": true,
+    "features": [
+      "Unlimited records",
+      "All export formats",
+      "API token access",
+      "Shipment-level data (coming Q3 2026)",
+      "Dedicated account manager",
+      "SLA-backed uptime",
+      "Custom data feeds"
+    ],
+    "is_active": true,
+    "sort_order": 4
+  }
+]

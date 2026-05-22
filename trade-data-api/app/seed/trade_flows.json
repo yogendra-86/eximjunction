@@ -1,0 +1,8762 @@
+[
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090111",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 263988469.24,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090111",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 202812529.61,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "IT",
+    "hs_code": "090111",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 186699642.68,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "090111",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 135735543.25,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090111",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 120599100.25,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "JP",
+    "hs_code": "090111",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 92934955.63,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090111",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 232459469.23,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090111",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 173636369.77,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "IT",
+    "hs_code": "090111",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 162001228.93,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "090111",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 111253048.66,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090111",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 93999248.39,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "JP",
+    "hs_code": "090111",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 76622559.56,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090111",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 266744344.52,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090111",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 233495642.88,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "IT",
+    "hs_code": "090111",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 221646630.66,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "090111",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 159875577.05,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090111",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 124064244.62,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "JP",
+    "hs_code": "090111",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 102455372.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090111",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 350721952.52,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090111",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 261621938.57,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "IT",
+    "hs_code": "090111",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 262896650.5,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "090111",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 189624271.42,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090111",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 146536052.93,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "JP",
+    "hs_code": "090111",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 110514694.84,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090111",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 342322570.98,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090111",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 264050339.56,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "IT",
+    "hs_code": "090111",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 223651435.83,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "090111",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 164122509.33,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090111",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 151525237.7,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "JP",
+    "hs_code": "090111",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 113498457.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090111",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 318726235.06,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090111",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 267719551.29,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "IT",
+    "hs_code": "090111",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 229168821.56,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "090111",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 179736968.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090111",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 134051992.45,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "JP",
+    "hs_code": "090111",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 107214463.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "BR",
+    "hs_code": "090111",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 1061625972.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "VN",
+    "hs_code": "090111",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 822078753.12,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "ID",
+    "hs_code": "090111",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 586760971.7,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IN",
+    "hs_code": "090111",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 408382321.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "EG",
+    "hs_code": "090111",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 208296691.12,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "BR",
+    "hs_code": "090111",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 792161488.64,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "VN",
+    "hs_code": "090111",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 653637582.3,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "ID",
+    "hs_code": "090111",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 453998194.85,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IN",
+    "hs_code": "090111",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 318721644.08,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "EG",
+    "hs_code": "090111",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 163543137.99,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "BR",
+    "hs_code": "090111",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 1055163647.61,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "VN",
+    "hs_code": "090111",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 869662903.55,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "ID",
+    "hs_code": "090111",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 633373311.32,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IN",
+    "hs_code": "090111",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 441097046.67,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "EG",
+    "hs_code": "090111",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 220741442.34,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "BR",
+    "hs_code": "090111",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 1244425874.9,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "VN",
+    "hs_code": "090111",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 1005141244.31,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "ID",
+    "hs_code": "090111",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 767945279.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IN",
+    "hs_code": "090111",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 534398616.58,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "EG",
+    "hs_code": "090111",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 265574555.9,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "BR",
+    "hs_code": "090111",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 1180213398.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "VN",
+    "hs_code": "090111",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 1033146185.0,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "ID",
+    "hs_code": "090111",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 648269276.77,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IN",
+    "hs_code": "090111",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 488694210.14,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "EG",
+    "hs_code": "090111",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 268667100.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "BR",
+    "hs_code": "090111",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 1213016903.57,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "VN",
+    "hs_code": "090111",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 957801181.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "ID",
+    "hs_code": "090111",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 671817352.31,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IN",
+    "hs_code": "090111",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 500609772.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "EG",
+    "hs_code": "090111",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 247766776.3,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090230",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 224317389.73,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "090230",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 141003492.84,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090230",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 113779533.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090230",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 101596066.65,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090230",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 67091889.66,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090230",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 212696054.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "090230",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 136877905.62,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090230",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 96365640.26,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090230",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 91602190.46,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090230",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 58591183.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090230",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 279451374.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "090230",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 169223327.73,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090230",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 126105073.84,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090230",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 113150157.66,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090230",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 79392658.46,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090230",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 291928971.89,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "090230",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 199910796.49,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090230",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 161381631.38,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090230",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 134353798.62,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090230",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 86946244.44,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090230",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 312713467.0,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "090230",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 188562833.45,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090230",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 135347969.83,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090230",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 120899861.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090230",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 81469328.6,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "090230",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 281487273.56,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "090230",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 187690001.07,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090230",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 136213185.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090230",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 115468688.23,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090230",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 81191096.76,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "100630",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 2766980578.82,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "100630",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 2189118531.36,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "100630",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1102683589.06,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "100630",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 949014152.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BD",
+    "hs_code": "100630",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 708936521.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "100630",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 663505761.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "100630",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 2234559945.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "100630",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 1856632152.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "100630",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 836166792.11,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "100630",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 777140954.71,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BD",
+    "hs_code": "100630",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 610941209.41,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "100630",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 537191038.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "100630",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 2843865724.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "100630",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 2612147196.65,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "100630",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1214950050.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "100630",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 964814865.48,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BD",
+    "hs_code": "100630",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 859604414.02,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "100630",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 679442326.63,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "100630",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 3536480554.73,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "100630",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 2987009838.56,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "100630",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1284190436.99,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "100630",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1186924839.49,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BD",
+    "hs_code": "100630",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1012590304.15,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "100630",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 783297401.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "100630",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 3299672138.7,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "100630",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 2708625902.3,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "100630",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1323134966.34,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "100630",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1113716051.2,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BD",
+    "hs_code": "100630",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 874086928.21,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "100630",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 769393100.55,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "100630",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 2784001475.69,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "100630",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 2739490607.05,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "100630",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1279448540.23,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "100630",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1111570178.29,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BD",
+    "hs_code": "100630",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 876897282.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "100630",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 700638591.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "IN",
+    "hs_code": "100630",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 927163857.08,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "VN",
+    "hs_code": "100630",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 281042267.01,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "TH",
+    "hs_code": "100630",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 204081137.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "PK",
+    "hs_code": "100630",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 174465196.05,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "IN",
+    "hs_code": "100630",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 689526804.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "VN",
+    "hs_code": "100630",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 231435165.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "TH",
+    "hs_code": "100630",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 193017632.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "PK",
+    "hs_code": "100630",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 139307800.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "IN",
+    "hs_code": "100630",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 973278433.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "VN",
+    "hs_code": "100630",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 295478787.97,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "TH",
+    "hs_code": "100630",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 235102784.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "PK",
+    "hs_code": "100630",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 207074020.58,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "IN",
+    "hs_code": "100630",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 1117514342.55,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "VN",
+    "hs_code": "100630",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 323776743.68,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "TH",
+    "hs_code": "100630",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 284635571.56,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "PK",
+    "hs_code": "100630",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 234610532.88,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "IN",
+    "hs_code": "100630",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 1028358903.75,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "VN",
+    "hs_code": "100630",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 314239372.54,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "TH",
+    "hs_code": "100630",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 291390452.21,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "PK",
+    "hs_code": "100630",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 221179785.67,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "IN",
+    "hs_code": "100630",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 1018384470.95,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "VN",
+    "hs_code": "100630",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 309439172.95,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "TH",
+    "hs_code": "100630",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 241549886.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "PK",
+    "hs_code": "100630",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 196652895.21,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "EG",
+    "hs_code": "100199",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 3140612414.13,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "TR",
+    "hs_code": "100199",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 2288785134.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "BD",
+    "hs_code": "100199",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1388211461.37,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "ID",
+    "hs_code": "100199",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1231923476.85,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "NG",
+    "hs_code": "100199",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1050990337.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "EG",
+    "hs_code": "100199",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 2788321954.29,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "TR",
+    "hs_code": "100199",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 1828813972.38,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "BD",
+    "hs_code": "100199",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 1308685071.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "ID",
+    "hs_code": "100199",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 1155273100.58,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "NG",
+    "hs_code": "100199",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 890229879.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "EG",
+    "hs_code": "100199",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 3452394396.09,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "TR",
+    "hs_code": "100199",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 2590610893.7,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "BD",
+    "hs_code": "100199",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1547410956.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "ID",
+    "hs_code": "100199",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1356582815.32,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "NG",
+    "hs_code": "100199",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1349090666.75,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "EG",
+    "hs_code": "100199",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 4219841182.3,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "TR",
+    "hs_code": "100199",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 2907918543.05,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "BD",
+    "hs_code": "100199",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1963089807.74,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "ID",
+    "hs_code": "100199",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1751077818.99,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "NG",
+    "hs_code": "100199",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1388007502.75,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "EG",
+    "hs_code": "100199",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 3725906256.79,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "TR",
+    "hs_code": "100199",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 2757175106.75,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "BD",
+    "hs_code": "100199",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1770326890.66,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "ID",
+    "hs_code": "100199",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1584698149.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "NG",
+    "hs_code": "100199",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1445057330.84,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "EG",
+    "hs_code": "100199",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 3898317794.22,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "TR",
+    "hs_code": "100199",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 2860859151.86,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "BD",
+    "hs_code": "100199",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1597223087.57,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "ID",
+    "hs_code": "100199",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1493601856.07,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "RU",
+    "partner": "NG",
+    "hs_code": "100199",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1293451863.77,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "RU",
+    "hs_code": "100199",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 2055285634.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "FR",
+    "hs_code": "100199",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 559417550.68,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "AU",
+    "hs_code": "100199",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 461639092.31,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "US",
+    "hs_code": "100199",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 385376659.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "RU",
+    "hs_code": "100199",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 1625144605.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "FR",
+    "hs_code": "100199",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 476220617.6,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "AU",
+    "hs_code": "100199",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 394958687.31,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "US",
+    "hs_code": "100199",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 351433232.93,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "RU",
+    "hs_code": "100199",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 2151670567.42,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "FR",
+    "hs_code": "100199",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 689091472.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "AU",
+    "hs_code": "100199",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 547228255.71,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "US",
+    "hs_code": "100199",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 403058023.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "RU",
+    "hs_code": "100199",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 2715139918.72,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "FR",
+    "hs_code": "100199",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 794839443.41,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "AU",
+    "hs_code": "100199",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 675739052.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "US",
+    "hs_code": "100199",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 537161412.12,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "RU",
+    "hs_code": "100199",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 2533899162.02,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "FR",
+    "hs_code": "100199",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 681559039.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "AU",
+    "hs_code": "100199",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 598621548.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "US",
+    "hs_code": "100199",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 458015792.58,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "RU",
+    "hs_code": "100199",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 2249523306.99,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "FR",
+    "hs_code": "100199",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 637290283.88,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "AU",
+    "hs_code": "100199",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 560363256.59,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "EG",
+    "partner": "US",
+    "hs_code": "100199",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 492639732.57,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "270900",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 36358560707.17,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "270900",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 33570602737.12,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "270900",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 24378788429.9,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 14924960321.68,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "270900",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 10135502212.85,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "270900",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 34536564170.2,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "270900",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 27442703743.46,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "270900",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 21526862740.19,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 12093023898.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "270900",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 7739786016.63,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "270900",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 45388614376.68,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "270900",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 36343559714.38,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "270900",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 27629728262.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 17558973958.71,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "270900",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 9807656905.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "270900",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 49547344738.88,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "270900",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 41574507434.88,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "270900",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 33571162473.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 18483700624.31,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "270900",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 13123300966.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "270900",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 43531498940.46,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "270900",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 37672702419.02,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "270900",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 30794570383.3,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 19189968160.1,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "270900",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 11172380604.0,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "270900",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 41741415921.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SA",
+    "hs_code": "270900",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 40136847765.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "270900",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 27715839829.78,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 18046632258.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "270900",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 11323344907.26,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "CN",
+    "hs_code": "270900",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 48306900549.18,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "JP",
+    "hs_code": "270900",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 37195929989.84,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "KR",
+    "hs_code": "270900",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 31926563178.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "IN",
+    "hs_code": "270900",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 31405965399.98,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 13987096155.74,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "CN",
+    "hs_code": "270900",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 42888486707.78,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "JP",
+    "hs_code": "270900",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 29790990484.29,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "KR",
+    "hs_code": "270900",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 26496158908.93,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "IN",
+    "hs_code": "270900",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 25555991927.3,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 12038394189.33,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "CN",
+    "hs_code": "270900",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 53088241644.95,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "JP",
+    "hs_code": "270900",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 42675874213.85,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "KR",
+    "hs_code": "270900",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 33121448286.44,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "IN",
+    "hs_code": "270900",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 32599142889.68,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 17717760386.53,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "CN",
+    "hs_code": "270900",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 68360444004.93,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "JP",
+    "hs_code": "270900",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 44256781480.36,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "KR",
+    "hs_code": "270900",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 39277309736.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "IN",
+    "hs_code": "270900",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 36572418521.68,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 20317108509.1,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "CN",
+    "hs_code": "270900",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 64138540734.57,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "JP",
+    "hs_code": "270900",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 48092342304.57,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "KR",
+    "hs_code": "270900",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 38475135768.83,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "IN",
+    "hs_code": "270900",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 34286414343.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 19104830813.83,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "CN",
+    "hs_code": "270900",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 59450792037.17,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "JP",
+    "hs_code": "270900",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 43953410017.74,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "KR",
+    "hs_code": "270900",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 40341734950.71,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "IN",
+    "hs_code": "270900",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 35396523646.98,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "SA",
+    "partner": "US",
+    "hs_code": "270900",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 15912529314.31,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "271012",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 14885436039.6,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "271012",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 7541558844.41,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "271012",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 7268507210.29,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AU",
+    "hs_code": "271012",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 6064629870.23,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "271012",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 3334431631.49,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "271012",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 11261623047.2,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "271012",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 6185029992.46,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "271012",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 6051094695.25,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AU",
+    "hs_code": "271012",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 4625163427.06,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "271012",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 3050318316.97,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "271012",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 16384617540.75,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "271012",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 8295345588.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "271012",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 8086701414.59,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AU",
+    "hs_code": "271012",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 6094170353.65,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "271012",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 3951070173.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "271012",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 19522320373.83,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "271012",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 10641713990.78,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "271012",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 8568704419.31,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AU",
+    "hs_code": "271012",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 7243662239.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "271012",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 4419565497.58,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "271012",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 16109927929.45,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "271012",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 10042523603.45,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "271012",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 8941958728.22,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AU",
+    "hs_code": "271012",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 6733389893.93,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "271012",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 4543861635.84,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "271012",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 16804481123.0,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "271012",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 9060607481.17,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "271012",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 7679559599.48,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AU",
+    "hs_code": "271012",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 6213593450.75,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "271012",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 4422070928.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 7647331992.1,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 2532423361.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1891911808.53,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1455585297.54,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BR",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1220157767.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1013238495.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 5897842495.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 2265523382.76,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 1593197090.54,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 1287131725.26,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BR",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 1165116348.7,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 870339064.08,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 7706438200.24,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 2631284118.36,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 2096995074.85,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1704318548.65,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BR",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1423423820.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1227473936.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 8781983556.73,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 3477301441.41,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 2459515357.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 2000809456.56,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BR",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1756438716.23,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1479459615.24,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 8198569933.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 3223183022.02,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 2158747518.2,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1896975327.64,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BR",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1674419075.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1408516170.55,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 8870872315.37,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 2847389744.26,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 2209816735.48,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1584161070.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BR",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1611704817.02,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NG",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1340334405.91,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 21917883738.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 15663914842.68,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 10255872198.98,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 8888635736.69,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 8407132663.36,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 6581047984.23,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 17947848299.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 12008518246.59,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 8502620146.59,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 8224475429.63,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 7307975345.2,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 5622589707.5,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 26215220337.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 16395237800.59,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 12423779136.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 10313385049.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 9602771539.22,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 7217163374.66,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 31916569251.08,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 18301394744.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 14345644766.26,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 11427476416.93,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 9737966900.7,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 8811530840.77,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 29369404274.96,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 17867635819.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 12966666060.74,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 11354047148.2,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 9734510087.57,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 8604159739.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 25925151137.61,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 18125606955.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 11174714483.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 11528612349.31,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 9502549684.5,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 8379452189.37,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 42043105266.01,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 35344031195.83,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 21778274575.68,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IT",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 15076503586.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 14538938752.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 33354240197.72,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 28275172379.24,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 19907154671.88,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IT",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 14196489354.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 11616618754.97,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 43857679459.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 37888779228.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 24492412969.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IT",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 17503611253.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 14889129090.95,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 51714216892.57,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 47660876435.3,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 29626875100.11,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IT",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 22302738591.41,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 18672177086.79,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 48407598996.52,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 42825973049.32,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 25301786134.67,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IT",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 19318123893.98,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 17303686819.97,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 48228455475.78,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CH",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 41478093563.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 26043760035.32,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IT",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 18871344150.26,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "FR",
+    "hs_code": "300490",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 15903203735.97,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1874068068.56,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1402068918.08,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 887079869.64,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "ES",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 623935473.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "FR",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 527132099.63,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 1598227301.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 1139737919.21,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 698510066.71,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "ES",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 586428846.91,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "FR",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 497504239.65,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 2161729514.26,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1407625340.91,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 901038222.1,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "ES",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 680227310.67,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "FR",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 605307815.74,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 2426024563.86,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1800408443.09,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1021157704.88,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "ES",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 840829753.9,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "FR",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 745885712.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 2211329908.07,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1678630646.83,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1045308738.09,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "ES",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 780416774.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "FR",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 714916074.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 2039107307.0,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1612239190.2,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1039481649.49,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "ES",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 726216824.77,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "BD",
+    "partner": "FR",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 656329824.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 725328529.84,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 328422017.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 268519310.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 177486682.59,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 621996877.64,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 273646205.0,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 225220086.72,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 169812718.32,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 877924633.82,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 368697475.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 303820257.01,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 229141354.61,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1052001866.65,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 403137651.17,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 358656548.41,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 247689215.33,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 994982058.46,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 380895295.57,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 351770252.82,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 245460175.71,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 896353118.9,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 346129433.19,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 302260882.77,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 229955811.72,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "BD",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 3544602644.26,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "VN",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 2899849033.45,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CN",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 2081370689.83,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "610910",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 983214303.34,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "BD",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 2685304329.46,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "VN",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 2364074002.13,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CN",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 1664883792.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "610910",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 839076650.74,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "BD",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 3824412551.29,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "VN",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 3043111714.99,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CN",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 2181964187.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "610910",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 1175376445.76,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "BD",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 4545319075.75,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "VN",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 3479234544.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CN",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 2600969973.75,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "610910",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 1328999472.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "BD",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 4143400285.32,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "VN",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 3402543803.29,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CN",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 2487801866.37,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "610910",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 1341615437.23,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "BD",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 4053810825.09,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "VN",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 3506364504.65,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CN",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 2536985100.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "IN",
+    "hs_code": "610910",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 1250994158.61,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "710231",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 2547513894.24,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "710231",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 4348899263.15,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "710231",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 3918685097.72,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "710231",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 1474121028.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "710231",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 2324413678.6,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "710231",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 4290195416.62,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "710231",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 3355947577.75,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "710231",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 1247523008.44,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "710231",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 2924203672.74,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "710231",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 5364968852.88,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "710231",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 4285519996.15,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "710231",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 1512253480.77,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "710231",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 3326605124.9,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "710231",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 5650602046.17,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "710231",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 5058249887.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "710231",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 1885881619.61,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "710231",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 3159215890.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "710231",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 5520708415.79,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "710231",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 4932462851.72,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "710231",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 1645735783.24,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "RU",
+    "hs_code": "710231",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 3115325625.37,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "BE",
+    "hs_code": "710231",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 5135081290.58,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "710231",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 4642148638.12,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "ZA",
+    "hs_code": "710231",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 1683837862.14,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "711319",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 3428447468.96,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "711319",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 3224735386.08,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "711319",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1397158045.55,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "711319",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1105908202.98,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "711319",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 688441056.13,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "711319",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 3081044793.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "711319",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 2547341563.77,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "711319",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 1221910056.82,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "711319",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 981940794.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "711319",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 616211205.85,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "711319",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 4312605788.42,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "711319",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 3710769240.62,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "711319",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1592457203.49,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "711319",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1160443305.66,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "711319",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 765334917.5,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "711319",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 4830273828.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "711319",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 4406339830.45,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "711319",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1873907817.59,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "711319",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1474593199.08,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "711319",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1003197396.42,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "711319",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 4693068139.99,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "711319",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 4052965097.63,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "711319",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1964569782.28,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "711319",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1308426669.34,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "711319",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 846042626.54,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "711319",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 4120936037.78,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "711319",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 3487270047.63,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "SG",
+    "hs_code": "711319",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1792779779.15,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "711319",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1322489628.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "711319",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 833344866.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 54395487509.42,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "847130",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 24733901619.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "847130",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 17468946556.55,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "847130",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 16085314589.19,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "NL",
+    "hs_code": "847130",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 15345178841.95,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "847130",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 9892421339.63,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 46932309784.85,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "847130",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 21587046503.82,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "847130",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 14647971571.24,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "847130",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 12378756364.97,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "NL",
+    "hs_code": "847130",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 12126170100.79,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "847130",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 9183632960.56,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 63233629234.56,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "847130",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 26073250468.2,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "847130",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 21329536887.36,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "847130",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 16475376086.18,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "NL",
+    "hs_code": "847130",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 16999227878.58,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "847130",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 12022832175.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 63871915023.78,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "847130",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 32035999137.25,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "847130",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 25214143474.6,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "847130",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 20793905938.75,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "NL",
+    "hs_code": "847130",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 17942672471.72,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "847130",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 14699616816.95,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 68060945003.95,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "847130",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 28585959978.75,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "847130",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 22529527266.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "847130",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 19130342459.62,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "NL",
+    "hs_code": "847130",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 18249947010.63,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "847130",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 12692425889.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 65484161260.15,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "847130",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 29346221773.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "847130",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 20335514837.59,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "847130",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 19976297874.5,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "NL",
+    "hs_code": "847130",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 17741036449.82,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "847130",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 13055419159.82,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "847130",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 5204112447.67,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "847130",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 997008890.93,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 783818810.09,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "847130",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 4584430067.19,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "847130",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 821941916.52,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 671559600.01,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "847130",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 5664013521.66,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "847130",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 1122953031.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 835739842.61,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "847130",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 6759470303.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "847130",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 1255392728.53,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 1032801347.7,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "847130",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 6551483325.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "847130",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 1162144434.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 990323590.14,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "847130",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 5683070520.12,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "847130",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 1178492864.78,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "847130",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 904580509.05,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 47631002592.08,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 17963501707.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 15389650041.23,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 12907683529.18,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 11583547137.49,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 11194922520.93,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 40091830556.14,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 17458579695.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 12740166309.23,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 11107618238.83,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 9479562976.9,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 9700325598.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 50686466869.58,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 22478887975.86,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 16255951418.07,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 15827856437.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 13985323137.08,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 12221656740.99,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 62764831712.79,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 26321284223.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 17629326680.53,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 16816015463.73,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 16196493419.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 13399788427.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 60782933619.19,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 23897320276.84,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 18089055161.7,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 16599754248.55,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 15590245048.11,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 12842631219.68,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 58997530899.98,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 22019351504.37,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 16460992940.44,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 15028879064.97,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "IN",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 13583049813.6,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 11806190108.12,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 19590942692.11,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 9133345927.3,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 7399153470.24,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 5578569638.29,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 4857479732.54,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 17092904402.89,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 7991209143.19,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 6626016533.78,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 4778134972.99,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 3861347231.34,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 20705342897.02,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 9369704858.76,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 8261688550.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 6023535043.78,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 5472434306.9,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 24298055684.69,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 12204595299.95,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 10169419133.1,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 7801375045.42,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 5925248488.73,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 25481075609.46,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 10812322338.26,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 10198988391.9,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 7304294173.67,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 5986169559.5,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 22698385593.17,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "DE",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 9791700056.14,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 8508685851.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "JP",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 7360169956.44,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "VN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 5708751754.99,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 4596725457.06,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 2366089285.79,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 814705894.44,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 3779548176.55,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 1891114307.73,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 699004349.21,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 4934836896.46,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 2602803336.63,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 1054363427.64,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 5311787014.02,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 3243076074.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 1150675103.95,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 5651200076.98,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 2839646527.53,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 1083900534.07,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CN",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 5102137616.82,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "VN",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 2802648591.53,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "KR",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 1087844571.29,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 4328597853.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1361114914.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 1022903830.99,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 816859259.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 3530608582.18,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 1275221174.14,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 810259155.19,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 648559541.25,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 4601262862.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1483984009.79,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 1062995431.17,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 836220423.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 4781112711.67,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1803657633.19,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1318102992.76,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 1004191544.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 4745304479.41,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1792881402.1,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 1279842532.36,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 984372970.46,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 4863801939.61,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "AE",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1764878698.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "NL",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 1234923071.7,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "851712",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 963342098.86,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "CN",
+    "hs_code": "854231",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 24912025537.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "VN",
+    "hs_code": "854231",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 9089789103.49,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 7198447709.06,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 6114717739.32,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 4971876127.9,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "CN",
+    "hs_code": "854231",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 21915685671.1,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "VN",
+    "hs_code": "854231",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 7576279095.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 5748226398.91,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 4867959323.7,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 3987639318.93,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "CN",
+    "hs_code": "854231",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 28224044964.42,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "VN",
+    "hs_code": "854231",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 9605194714.97,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 7867446937.91,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 6377869686.02,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 5592451740.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "CN",
+    "hs_code": "854231",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 32432946530.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "VN",
+    "hs_code": "854231",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 11779110183.71,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 9429283741.48,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 7849342561.46,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 5863758662.48,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "CN",
+    "hs_code": "854231",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 27791331764.08,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "VN",
+    "hs_code": "854231",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 10385808155.79,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 8744143080.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 7200441482.89,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 5607673811.17,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "CN",
+    "hs_code": "854231",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 30683022181.45,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "VN",
+    "hs_code": "854231",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 10537533782.25,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 8674558778.36,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 7658041460.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "KR",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 6171037638.29,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "854231",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 53749556644.01,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "TH",
+    "hs_code": "854231",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 10075735378.85,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 14537935523.96,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 13613116322.09,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 10412161378.0,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "854231",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 45381778042.02,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "TH",
+    "hs_code": "854231",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 9451465663.62,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 12614908610.96,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 11228153428.18,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 9052642457.61,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "854231",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 58384142888.19,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "TH",
+    "hs_code": "854231",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 10927616563.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 17111816871.82,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 14225582705.19,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 12010588227.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "854231",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 71566832283.97,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "TH",
+    "hs_code": "854231",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 13169790089.72,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 20936982768.39,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 16349635876.67,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 14502819236.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "854231",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 67857175005.29,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "TH",
+    "hs_code": "854231",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 13026661296.09,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 19244506202.68,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 15674444344.69,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 12557661490.39,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "KR",
+    "hs_code": "854231",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 66167972694.73,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "TH",
+    "hs_code": "854231",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 12118990881.48,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "MY",
+    "hs_code": "854231",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 18504653545.34,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "JP",
+    "hs_code": "854231",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 16586139605.62,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "CN",
+    "partner": "US",
+    "hs_code": "854231",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 12618161991.84,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 23092819666.91,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 19225419247.83,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 9805493454.07,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 7850241043.53,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IT",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 7163284081.99,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 4679347622.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 20236770580.67,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 15731001882.36,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 8811708386.56,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 7265307963.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IT",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 5770860266.95,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 4008969160.96,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 24082166665.73,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 23439237565.51,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 11736660276.96,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 8597969245.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IT",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 7270118654.89,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 5168688252.09,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 29930692406.17,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 23588015302.7,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 14409166686.48,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 11075270109.12,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IT",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 8849834333.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 5573161497.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 29839049054.42,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 24077073611.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 13191870785.02,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 9930743597.24,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IT",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 8191857859.53,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 5970149710.66,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 29057564128.07,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 21996041039.44,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "GB",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 12242457863.65,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "FR",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 9268529975.57,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "IT",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 8641657794.2,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "DE",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 5403941341.31,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 25044121408.33,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 9994529589.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "AU",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 5691455880.44,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "RU",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 4447204203.76,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "SA",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 3493467373.35,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 21389594859.78,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 8009904225.04,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "AU",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 5256439578.55,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "RU",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 3474915254.37,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "SA",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 2903306807.89,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 26755959272.42,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 11398146162.79,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "AU",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 6586287032.58,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "RU",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 4482932517.97,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "SA",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 3982767699.21,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 29798383714.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 12323749615.61,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "AU",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 7691970076.95,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "RU",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 5460703262.84,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "SA",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 4452636723.5,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 27713711077.3,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 12035330398.23,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "AU",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 7375430582.32,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "RU",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 5026192454.69,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "SA",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 4567881132.57,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "US",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 25749543551.54,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "CN",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 11546142491.67,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "AU",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 7172475423.36,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "RU",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 5249127122.05,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "JP",
+    "partner": "SA",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 4090719168.33,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 40076888037.21,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 39005378169.12,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "MX",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 33646814133.15,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CA",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 19512432213.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "KR",
+    "hs_code": "870323",
+    "year": 2019,
+    "flow_type": "import",
+    "value_usd": 16272473523.36,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 33093208076.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 31880483473.3,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "MX",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 28030315878.25,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CA",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 17530830308.85,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "KR",
+    "hs_code": "870323",
+    "year": 2020,
+    "flow_type": "import",
+    "value_usd": 14744305558.23,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 43829885427.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 41180451451.94,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "MX",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 36161718595.55,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CA",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 21509979396.52,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "KR",
+    "hs_code": "870323",
+    "year": 2021,
+    "flow_type": "import",
+    "value_usd": 20128323584.78,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 47745537206.93,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 47779135362.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "MX",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 43467799486.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CA",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 24617534070.65,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "KR",
+    "hs_code": "870323",
+    "year": 2022,
+    "flow_type": "import",
+    "value_usd": 23444479652.8,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 49399820215.58,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 48410566462.72,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "MX",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 40770349961.58,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CA",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 25508488213.49,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "KR",
+    "hs_code": "870323",
+    "year": 2023,
+    "flow_type": "import",
+    "value_usd": 21292670480.26,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "DE",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 44598157672.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "JP",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 45176123856.15,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "MX",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 38282319830.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "CA",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 24341732172.06,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "US",
+    "partner": "KR",
+    "hs_code": "870323",
+    "year": 2024,
+    "flow_type": "import",
+    "value_usd": 19140379724.87,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090411",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 60869632.43,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090411",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 30040542.63,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090411",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 20936454.4,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "090411",
+    "year": 2019,
+    "flow_type": "export",
+    "value_usd": 14117691.16,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090411",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 57571345.03,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090411",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 24659775.47,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090411",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 15547861.11,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "090411",
+    "year": 2020,
+    "flow_type": "export",
+    "value_usd": 11313965.38,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090411",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 77433234.1,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090411",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 32588277.92,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090411",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 22603573.31,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "090411",
+    "year": 2021,
+    "flow_type": "export",
+    "value_usd": 15558776.27,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090411",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 78468800.81,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090411",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 39881120.19,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090411",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 24545370.66,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "090411",
+    "year": 2022,
+    "flow_type": "export",
+    "value_usd": 16584185.1,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090411",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 76188901.98,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090411",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 36527397.97,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090411",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 24486367.26,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "090411",
+    "year": 2023,
+    "flow_type": "export",
+    "value_usd": 16909896.49,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "US",
+    "hs_code": "090411",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 72861337.22,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "DE",
+    "hs_code": "090411",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 32283517.02,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "GB",
+    "hs_code": "090411",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 24446176.98,
+    "quantity": null,
+    "quantity_unit": null
+  },
+  {
+    "reporter": "IN",
+    "partner": "CA",
+    "hs_code": "090411",
+    "year": 2024,
+    "flow_type": "export",
+    "value_usd": 15679287.06,
+    "quantity": null,
+    "quantity_unit": null
+  }
+]

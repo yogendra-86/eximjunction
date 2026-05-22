@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment - NEVER commit
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables - NEVER commit
+.env
+.env.*
+*.env
+
+# Database - contains real user data
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Test files at root level (generated during testing)
+test_phase2.py
+test_phase2_v2.py
+test_results.csv
+full_test_results.txt
+backend_results.txt
+smoke_results.txt
+
+# Test artifacts - generated output
+.pytest_cache/
+.coverage
+htmlcov/
+coverage-report/
+allure-results/
+allure-report/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.backup
+main_backup.py
