@@ -31,6 +31,7 @@ export default function App() {
         <Route path="/portal/search"   element={<PortalSearch />} />
         <Route path="/portal/results"  element={<PortalResults />} />
         <Route path="/portal/services" element={<Services />} />
+        <Route path="/portal/plans"    element={<Navigate to="/pricing" replace />} />
 
         {/* Protected dashboard */}
         <Route path="/dashboard" element={<Protected><DashLayout /></Protected>}>

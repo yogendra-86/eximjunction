@@ -20,7 +20,7 @@ class Settings(BaseSettings):
     API_PREFIX: str = "/api/v1"
     CORS_ORIGINS: str = "*"
 
-    # Auth — JWT
+    # Auth Ã¢â‚¬â€ JWT
     JWT_SECRET: str = "change-me-in-production-please"
     JWT_ALGORITHM: str = "HS256"
     JWT_EXPIRE_MINUTES: int = 60 * 8  # 8h sessions
@@ -31,8 +31,9 @@ class Settings(BaseSettings):
 
     # Tier rate limits
     RATE_LIMIT_FREE_PER_DAY: int = 50
-    RATE_LIMIT_STARTER_PER_DAY: int = 1000
-    RATE_LIMIT_PRO_PER_DAY: int = 10_000
+    RATE_LIMIT_PAID_PER_DAY: int = 10000
+    RATE_LIMIT_STARTER_PER_DAY: int = 500
+    RATE_LIMIT_PRO_PER_DAY: int = 10000
     # 'enterprise' is unlimited
 
     # Razorpay

@@ -7,12 +7,12 @@ Feature: Customer Authentication
   Background:
     Given the API is running at base URL
 
-  # â”€â”€ Registration â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  # ── Registration ─────────────────────────────────────────────────────────────
 
   @smoke @auth
   Scenario: Successful customer signup
     Given I have valid signup details
-        When I submit the signup form
+    When I submit the signup form
     Then the response status should be 201
     And the response should contain an access_token
     And the token type should be bearer
@@ -32,13 +32,13 @@ Feature: Customer Authentication
     Then the response status should be 422
 
     Examples:
-      | field    | value          |
-      | email    | not-an-email   |
-      | email    | missing@       |
-      | password | 123            |
-      | password |                |
+      | field    | value        |
+      | email    | not-an-email |
+      | email    | missing@     |
+      | password | 123          |
+      | password | short        |
 
-  # â”€â”€ Login â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  # ── Login ────────────────────────────────────────────────────────────────────
 
   @smoke @auth
   Scenario: Successful customer login
@@ -85,7 +85,7 @@ Feature: Customer Authentication
     When I call GET /auth/admin/me with the customer token
     Then the response status should be 401
 
-  # â”€â”€ API Key Management â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  # ── API Key Management ────────────────────────────────────────────────────────
 
   @smoke @auth
   Scenario: Customer can create a named API key
@@ -110,7 +110,7 @@ Feature: Customer Authentication
     When customer A tries to revoke customer B's API key
     Then the response status should be 404
 
-  # â”€â”€ Admin Login â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+  # ── Admin Login ───────────────────────────────────────────────────────────────
 
   @smoke @auth
   Scenario: Admin can login with correct credentials

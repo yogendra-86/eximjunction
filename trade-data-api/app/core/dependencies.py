@@ -16,9 +16,10 @@ from app.models import AdminUser, APIKey, APIKeyUsage, Customer, Subscription
 
 # Tier -> daily limit. None means unlimited.
 _TIER_LIMITS: dict[str, int | None] = {
-    "free": settings.RATE_LIMIT_FREE_PER_DAY,
-    "starter": settings.RATE_LIMIT_STARTER_PER_DAY,
-    "pro": settings.RATE_LIMIT_PRO_PER_DAY,
+    "free":       settings.RATE_LIMIT_FREE_PER_DAY,
+    "paid":       settings.RATE_LIMIT_PAID_PER_DAY,
+    "starter":    settings.RATE_LIMIT_STARTER_PER_DAY,
+    "pro":        settings.RATE_LIMIT_PRO_PER_DAY,
     "enterprise": None,
 }
 

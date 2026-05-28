@@ -35,7 +35,7 @@ export default function PortalResults() {
     else { setSortKey(key); setSortDir('desc') }
   }
 
-  const SortIcon = ({ k }) => sortKey !== k ? ' ↕' : sortDir === 'desc' ? ' ↓' : ' ↑'
+  const SortIcon = ({ k }) => sortKey !== k ? ' â†•' : sortDir === 'desc' ? ' â†“' : ' â†‘'
 
   const handleExport = async () => {
     if (!data.can_export) return
@@ -59,18 +59,18 @@ export default function PortalResults() {
       const url = window.URL.createObjectURL(new Blob([res.data]))
       const a = document.createElement('a')
       a.href = url
-      a.download = `eximjunction_${Date.now()}.csv`
+      a.download = `eximjunction_${params?.hs_code || "data"}_${params?.reporter || "global"}_${params?.flow || "export"}_${params?.year_to || "2024"}.csv`
       a.click()
       window.URL.revokeObjectURL(url)
-      setExportMsg('✅ Download started')
+      setExportMsg('âœ… Download started')
     } catch (e) {
-      setExportMsg(e.response?.data?.detail || '❌ Export failed')
+      setExportMsg(e.response?.data?.detail || 'âŒ Export failed')
     } finally {
       setExporting(false)
     }
   }
 
-  // Chart data — top 10 by value for the chart
+  // Chart data â€” top 10 by value for the chart
   const chartData = sorted.slice(0, 10).map(r => ({
     name: r.reporter_name?.split(' ').slice(0, 2).join(' ') || r.reporter_iso,
     value: parseFloat((r.value_usd / 1e9).toFixed(2)),
@@ -93,15 +93,15 @@ export default function PortalResults() {
             <div>
               <div className="flex items-center gap-3 mb-1">
                 <Link to="/portal/search" className="text-sm text-brand-600 hover:underline">
-                  ← Back to search
+                  â† Back to search
                 </Link>
                 <span className="text-gray-300">|</span>
-                <span className="text-sm text-gray-500">{data.count} records shown · Plan: {data.plan}</span>
+                <span className="text-sm text-gray-500">{data.count} records shown Â· Plan: {data.plan}</span>
               </div>
               <h1 className="text-2xl font-bold text-gray-900">
                 {params?.hs_code && <span className="text-brand-600">HS {params.hs_code}</span>}
-                {params?.reporter && ` · ${params.reporter}`}
-                {' '}Trade Data {params?.year_from}–{params?.year_to}
+                {params?.reporter && ` Â· ${params.reporter}`}
+                {' '}Trade Data {params?.year_from}â€“{params?.year_to}
               </h1>
             </div>
 
@@ -113,7 +113,7 @@ export default function PortalResults() {
                     disabled={exporting}
                     className="btn-primary flex items-center gap-2"
                   >
-                    {exporting ? '⏳ Exporting...' : '⬇ Download CSV'}
+                    {exporting ? 'â³ Exporting...' : 'â¬‡ Download CSV'}
                   </button>
                   {exportMsg && <p className="text-xs mt-1 text-center">{exportMsg}</p>}
                 </div>
@@ -122,7 +122,7 @@ export default function PortalResults() {
                   to="/portal/plans"
                   className="btn-secondary flex items-center gap-2 text-sm"
                 >
-                  ⬇ Download CSV — Upgrade
+                  â¬‡ Download CSV â€” Upgrade
                 </Link>
               )}
             </div>
@@ -133,7 +133,7 @@ export default function PortalResults() {
             <div className="mb-6 p-4 bg-amber-50 border border-amber-200 rounded-xl flex items-center justify-between">
               <div>
                 <p className="text-sm font-semibold text-amber-800">
-                  ⚠️ Showing {data.tier_limit} of many more records
+                  âš ï¸ Showing {data.tier_limit} of many more records
                 </p>
                 <p className="text-xs text-amber-700 mt-0.5">
                   Your {data.plan} plan shows {data.tier_limit} records per search. Upgrade to see all results and download CSV.
@@ -211,7 +211,7 @@ export default function PortalResults() {
                       </td>
                       <td className="px-4 py-3 font-semibold text-gray-900">{fmt(row.value_usd)}</td>
                       <td className="px-4 py-3 text-gray-500 text-xs">
-                        {row.quantity ? `${row.quantity.toLocaleString()} ${row.quantity_unit || ''}` : '—'}
+                        {row.quantity ? `${row.quantity.toLocaleString()} ${row.quantity_unit || ''}` : 'â€”'}
                       </td>
                     </tr>
                   ))}
@@ -225,7 +225,7 @@ export default function PortalResults() {
             <div className="mt-6 p-6 bg-brand-600 rounded-xl text-white text-center">
               <h3 className="text-lg font-bold mb-2">Want the full dataset?</h3>
               <p className="text-brand-100 text-sm mb-4">
-                Upgrade to Starter (₹999/month) to see 500 records per search and download CSV files.
+                Upgrade to Starter (â‚¹999/month) to see 500 records per search and download CSV files.
               </p>
               <Link to="/portal/plans" className="inline-block bg-white text-brand-700 font-bold py-2.5 px-8 rounded-lg hover:bg-brand-50 transition-colors">
                 View Plans
